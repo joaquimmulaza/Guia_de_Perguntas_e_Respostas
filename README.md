@@ -2,5 +2,9 @@
 Guia de perguntas e respostas feito com HTML, CSS, Bootstrap, JavaScript, NodeJS Express Sequelize, EJS
 
 
-https://user-images.githubusercontent.com/71206707/147315899-0851f9b4-51ec-4000-a09d-ac5051c0b208.mp4
+
+
+
+
+https://user-images.githubusercontent.com/71206707/147317526-e60349eb-de38-4f98-857f-4138575912bf.mp4
 
